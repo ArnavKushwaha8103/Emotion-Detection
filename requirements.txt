@@ -4,3 +4,4 @@ pandas
 numpy
 tqdm
 opencv-python
+Deepface
